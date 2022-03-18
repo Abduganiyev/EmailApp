@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-//import static java.awt.DefaultKeyboardFocusManager.sendMessage;
 
 public class EmailApplication {
     public static Scanner scanner;
